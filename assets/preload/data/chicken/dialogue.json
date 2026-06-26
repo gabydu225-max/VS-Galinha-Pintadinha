@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Eu.... Eu estou sem saber onde que eu to!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "popo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Quem e vc, e o que fazes no meu desenho!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "E uma longa historia"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Bora cantar rap?"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "popo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "SE BOLA!"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Para!"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "popo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fui mal"
+		}
+	]
+}

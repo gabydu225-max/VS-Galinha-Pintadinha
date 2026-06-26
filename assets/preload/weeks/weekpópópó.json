@@ -1,0 +1,59 @@
+{
+	"storyName": "Galinha Funkin",
+	"difficulties": "Easy,Normal,Hard",
+	"hideFreeplay": false,
+	"weekBackground": "pintadinha",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Chicken",
+			"popo",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Cotton-Eye-Joe",
+			"popo",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Purple",
+			"carijó",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"chicken-dance",
+			"popo",
+			[
+				0,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}

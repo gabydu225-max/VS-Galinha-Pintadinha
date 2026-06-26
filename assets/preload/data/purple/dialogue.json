@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "MISERICORDIA O WILLIAM AFTON!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "carijo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Que William Afton? Eu sou o Galo Carijo seu jumento!"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fui mal, e que eu confundi"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "carijo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Confundiu? So porque eu sou roxo!? aaaaah seu-"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "popo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh oh oh oh pega leve ai Galo"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "carijo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pegar leve!? Ele me confundiu pelo William Afton so porque eu sou roxo"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "carijo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Agora ele vai ver quem e o William Afton"
+		}
+	]
+}

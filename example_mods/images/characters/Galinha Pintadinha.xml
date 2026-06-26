@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Galinha Pintadinha.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Popo Sing Note DOWN0000" x="0" y="0" width="559" height="644" frameX="0" frameY="0" frameWidth="559" frameHeight="668"/>
+	<SubTexture name="Popo Sing Note DOWN0001" x="559" y="0" width="553" height="637" frameX="-6" frameY="-7" frameWidth="559" frameHeight="668"/>
+	<SubTexture name="Popo Sing Note DOWN0002" x="1112" y="0" width="544" height="633" frameX="-13" frameY="-14" frameWidth="559" frameHeight="668"/>
+	<SubTexture name="Popo Sing Note DOWN0003" x="1656" y="0" width="536" height="637" frameX="-20" frameY="-21" frameWidth="559" frameHeight="668"/>
+	<SubTexture name="Popo Sing Note DOWN0004" x="2192" y="0" width="526" height="640" frameX="-27" frameY="-28" frameWidth="559" frameHeight="668"/>
+	<SubTexture name="Popo Sing Note DOWN0005" x="2192" y="0" width="526" height="640" frameX="-27" frameY="-28" frameWidth="559" frameHeight="668"/>
+	<SubTexture name="Popo Sing Note DOWN0006" x="2718" y="0" width="536" height="637" frameX="-20" frameY="-21" frameWidth="559" frameHeight="668"/>
+	<SubTexture name="Popo Sing Note DOWN0007" x="3254" y="0" width="545" height="633" frameX="-13" frameY="-14" frameWidth="559" frameHeight="668"/>
+	<SubTexture name="Popo Sing Note DOWN0008" x="3799" y="0" width="553" height="637" frameX="-6" frameY="-7" frameWidth="559" frameHeight="668"/>
+	<SubTexture name="Popo Sing Note DOWN0009" x="0" y="0" width="559" height="644" frameX="0" frameY="0" frameWidth="559" frameHeight="668"/>
+	<SubTexture name="Popo Sing Note LEFT0000" x="4352" y="0" width="851" height="721" frameX="-11" frameY="0" frameWidth="862" frameHeight="735"/>
+	<SubTexture name="Popo Sing Note LEFT0001" x="5203" y="0" width="847" height="718" frameX="-7" frameY="-6" frameWidth="862" frameHeight="735"/>
+	<SubTexture name="Popo Sing Note LEFT0002" x="6050" y="0" width="842" height="715" frameX="-4" frameY="-13" frameWidth="862" frameHeight="735"/>
+	<SubTexture name="Popo Sing Note LEFT0003" x="6892" y="0" width="835" height="711" frameX="-1" frameY="-20" frameWidth="862" frameHeight="735"/>
+	<SubTexture name="Popo Sing Note LEFT0004" x="0" y="721" width="826" height="707" frameX="0" frameY="-28" frameWidth="862" frameHeight="735"/>
+	<SubTexture name="Popo Sing Note LEFT0005" x="0" y="721" width="826" height="707" frameX="0" frameY="-28" frameWidth="862" frameHeight="735"/>
+	<SubTexture name="Popo Sing Note LEFT0006" x="0" y="721" width="826" height="707" frameX="0" frameY="-28" frameWidth="862" frameHeight="735"/>
+	<SubTexture name="Popo Sing Note LEFT0007" x="0" y="721" width="826" height="707" frameX="0" frameY="-28" frameWidth="862" frameHeight="735"/>
+	<SubTexture name="Popo Sing Note LEFT0008" x="0" y="721" width="826" height="707" frameX="0" frameY="-28" frameWidth="862" frameHeight="735"/>
+	<SubTexture name="Popo Sing Note LEFT0009" x="0" y="721" width="826" height="707" frameX="0" frameY="-28" frameWidth="862" frameHeight="735"/>
+	<SubTexture name="Popo Sing Note RIGHT0000" x="826" y="721" width="851" height="721" frameX="0" frameY="0" frameWidth="851" frameHeight="728"/>
+	<SubTexture name="Popo Sing Note RIGHT0001" x="1677" y="721" width="847" height="720" frameX="-4" frameY="-3" frameWidth="851" frameHeight="728"/>
+	<SubTexture name="Popo Sing Note RIGHT0002" x="2524" y="721" width="841" height="717" frameX="-9" frameY="-7" frameWidth="851" frameHeight="728"/>
+	<SubTexture name="Popo Sing Note RIGHT0003" x="3365" y="721" width="834" height="715" frameX="-15" frameY="-11" frameWidth="851" frameHeight="728"/>
+	<SubTexture name="Popo Sing Note RIGHT0004" x="4199" y="721" width="826" height="713" frameX="-21" frameY="-15" frameWidth="851" frameHeight="728"/>
+	<SubTexture name="Popo Sing Note RIGHT0005" x="4199" y="721" width="826" height="713" frameX="-21" frameY="-15" frameWidth="851" frameHeight="728"/>
+	<SubTexture name="Popo Sing Note RIGHT0006" x="4199" y="721" width="826" height="713" frameX="-21" frameY="-15" frameWidth="851" frameHeight="728"/>
+	<SubTexture name="Popo Sing Note RIGHT0007" x="4199" y="721" width="826" height="713" frameX="-21" frameY="-15" frameWidth="851" frameHeight="728"/>
+	<SubTexture name="Popo Sing Note RIGHT0008" x="4199" y="721" width="826" height="713" frameX="-21" frameY="-15" frameWidth="851" frameHeight="728"/>
+	<SubTexture name="Popo Sing Note RIGHT0009" x="4199" y="721" width="826" height="713" frameX="-21" frameY="-15" frameWidth="851" frameHeight="728"/>
+	<SubTexture name="Popo Sing Note UP0000" x="5025" y="721" width="878" height="685" frameX="-67" frameY="-208" frameWidth="945" frameHeight="893"/>
+	<SubTexture name="Popo Sing Note UP0001" x="5903" y="721" width="871" height="681" frameX="-69" frameY="-166" frameWidth="945" frameHeight="893"/>
+	<SubTexture name="Popo Sing Note UP0002" x="6774" y="721" width="859" height="675" frameX="-72" frameY="-125" frameWidth="945" frameHeight="893"/>
+	<SubTexture name="Popo Sing Note UP0003" x="0" y="1442" width="850" height="684" frameX="-67" frameY="-68" frameWidth="945" frameHeight="893"/>
+	<SubTexture name="Popo Sing Note UP0004" x="850" y="1442" width="858" height="704" frameX="-47" frameY="0" frameWidth="945" frameHeight="893"/>
+	<SubTexture name="Popo Sing Note UP0005" x="1708" y="1442" width="858" height="704" frameX="-47" frameY="0" frameWidth="945" frameHeight="893"/>
+	<SubTexture name="Popo Sing Note UP0006" x="2566" y="1442" width="850" height="684" frameX="-67" frameY="-68" frameWidth="945" frameHeight="893"/>
+	<SubTexture name="Popo Sing Note UP0007" x="3416" y="1442" width="859" height="674" frameX="-72" frameY="-125" frameWidth="945" frameHeight="893"/>
+	<SubTexture name="Popo Sing Note UP0008" x="4275" y="1442" width="871" height="680" frameX="-69" frameY="-166" frameWidth="945" frameHeight="893"/>
+	<SubTexture name="Popo Sing Note UP0009" x="5025" y="721" width="878" height="685" frameX="-67" frameY="-208" frameWidth="945" frameHeight="893"/>
+	<SubTexture name="Popo idle dance0000" x="5146" y="1442" width="534" height="647" frameX="-17" frameY="0" frameWidth="559" frameHeight="647"/>
+	<SubTexture name="Popo idle dance0001" x="5680" y="1442" width="539" height="647" frameX="-12" frameY="0" frameWidth="559" frameHeight="647"/>
+	<SubTexture name="Popo idle dance0002" x="6219" y="1442" width="543" height="647" frameX="-8" frameY="0" frameWidth="559" frameHeight="647"/>
+	<SubTexture name="Popo idle dance0003" x="6762" y="1442" width="548" height="647" frameX="-3" frameY="0" frameWidth="559" frameHeight="647"/>
+	<SubTexture name="Popo idle dance0004" x="7310" y="1442" width="559" height="647"/>
+	<SubTexture name="Popo idle dance0005" x="0" y="2146" width="549" height="647" frameX="-3" frameY="0" frameWidth="559" frameHeight="647"/>
+	<SubTexture name="Popo idle dance0006" x="549" y="2146" width="545" height="647" frameX="-6" frameY="0" frameWidth="559" frameHeight="647"/>
+	<SubTexture name="Popo idle dance0007" x="1094" y="2146" width="542" height="647" frameX="-9" frameY="0" frameWidth="559" frameHeight="647"/>
+	<SubTexture name="Popo idle dance0008" x="1636" y="2146" width="538" height="647" frameX="-13" frameY="0" frameWidth="559" frameHeight="647"/>
+	<SubTexture name="Popo idle dance0009" x="2174" y="2146" width="534" height="647" frameX="-17" frameY="0" frameWidth="559" frameHeight="647"/>
+</TextureAtlas>

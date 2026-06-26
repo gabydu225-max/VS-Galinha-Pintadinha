@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "carijo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Vixi o Galo do William Afton ta pistola!"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "carijo",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "CHEGA! AGORA TU VAI-"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "popo",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Chega Galo, vai pra dentro tomar um cha pra se aliviar um pouco dessa estresse que eu dou rap nesse beepopeiro"
+		}
+	]
+}

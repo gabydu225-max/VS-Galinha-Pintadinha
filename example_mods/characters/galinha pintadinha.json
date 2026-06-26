@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Popo Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				191,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Popo Sing Note LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				67
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Popo Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Popo idle dance0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				154,
+				160
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Popo Sing Note UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/galinha pintadinha",
+	"position": [
+		-100,
+		100
+	],
+	"healthicon": "popo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		145,
+		176
+	],
+	"camera_position": [
+		50,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
